@@ -1,0 +1,171 @@
+* "Adjectives" modifying nouns
+  Pesent tense:
+  - Adding ㄴ or 은 to DV verbstem depending on [[받침]].
+  - Adding 는 to AV verbstem.
+  - When an adjective ends in “~있다” like this, instead of attaching
+    ~ㄴ/은 to the stem, you must attach ~는 to the stem.
+
+* Vovel harmony 
+    아 + 아 = 아 (example: 가 + 았다 = 갔다)
+    오 + 아 = 와 (example: 오+ 았다 = 왔다)
+    우 + 어 = 워 (example: 배우+ 었다 = 배웠다)
+    이 + 어 = 여 (example: 끼+ 었다 = 꼈다)
+    어 + 어 = 어 (example: 나서 + 었다 = 나섰다)
+    여 + 어 = 여 (example: 켜다 + 었다 = 켰다)
+    하 + 여 = 해 (example: 공부하다 + 였다 = 공부했다)
+
+* Conjugations
+When using vovels in actual sentences they have to be conjugated.
+There are different forms, depending on whom you are talking to. The
+"[[Diary form]]" is used when speaking to yourself or when there is no
+clear audience. In all other cases, [[Using honorifics][honorifics]] have to be used.
+
+Also The future tense has two different forms, the "겠 Future" and the
+"을 것이다" Future. The first one seems to me more formal and is rarly
+used like this, it also carries the meaning of "I have already decided
+and I am very determined to do this." Where the second form more feels
+like a general plan and is used much more ofen.
+
+
+** Diary form
+    Also used in tests, books, research articles, newspapers and other
+    ocasions where one is not directly adressing a specific audience.
+    
+    Usually (except for diary) just used to communicate facts and
+    therefore there is no speaker, or "I". 
+
+*** Present:
+    Adding "~ㄴ다" or "~는다" to AVstem depending on [[받침]].
+
+    Examples:
+    나는 문을 닫는다     - I close the door
+    나는 한국어를 배운다 - I learn Korean
+
+    DVs don't need to be conjugated in present tense.
+    
+    Examples for DV:
+    그 선생님은 아름답다. - That teacher is beautiful.
+    그 길은 길다.         - That street is long.
+
+*** Past: 
+    When conjugating to the past tense, we need to add “~았/었다” to
+    the stem of a DV or AV (or 였다 in the case of 하다). Depening on
+    and using [[vovel harmony]] to concatenate the forms.
+
+    Examples:
+    나는 박물관에 갔다.     - I went to the museum.
+    나는 한국어를 공부했다. - I studied Korean.
+    이것은 비쌌다.          - This was expensive.
+
+*** 겠 Future 
+    Future tense is simply adding “~겠다” to the stem of a AV or DV.
+
+    Examples:
+    나는 먹겠다.     - I will eat.
+    나는 배우겠다.   - I will learn.
+    나는 행복하겠다. - I will be happy.
+
+*** 을 것이다 Future
+    This form is built adding "~ㄹ/을 것이다" to the AVs or DVs stem.
+    
+    나는 먹을 것이다.   - I will eat.
+    나는 배울 거시다.   - I will learn.
+    나는 행복할 거시다. - I will be happy.
+
+
+*** Special case 있다
+    있다 can be an adjective, or it can be a verb. 있다 is an
+    adjective when it is used to indicate that one “has” something and
+    to indicate that something/someone is “at/in” a location.
+    Therefore in this situation it will be conjugated like an AV.
+
+    있다 is considered a verb when a person (or animal) is not only
+    “at” a location, but “staying” at a location or in a state for a
+    period of time. The difference between the adjective “있다” (to
+    indicate something/someone is at a location) and the verb “있다”
+    (to indicate that someone stays at a location or in a state) is
+    confusing.
+
+** Using honorifics
+AVs and DVs behave same here luckily.
+
+*** Informal low respect
+    Used when talking to your friends, people you are close with,
+    people younger than you and your family.
+    
+**** Present:
+     All you need to do is add ~어/아/여 to the stem of the verb.
+     
+     Example:
+     나는 항상 저녁에 음식을 먹어. - I always eat food in the evening.
+
+**** Past:
+     Instead of adding 었다/았다/였다 to a stem, remove 다 and add 어
+     after 었/았/였.
+
+     Example:
+     나는 먹었어. - I ate.
+
+**** 겠 Future:
+     Instead of adding 겠다 to a word stem, remove 다 and add 어 after
+     겠.
+
+     Example:
+     나는 먹겠어. - I will eat.
+
+*** Informal high respect
+    This can be used in most situations, even in formal situations
+    despite the name being “informal.” This is usually the way most
+    people speak when they are trying to show respect to the person
+    they are talking to.
+
+**** Present:
+     This is done the exact same way as ‘Informal low respect’ but you
+     also add ‘~요’ to the end of the word. Adding ~요 to the end of
+     anything in Korean makes it more respectful.
+
+     Example:
+     저는 항상 저녁에 음식을 먹어요. - I always eat food in the evening.
+    
+**** Past:
+     Just add 요 to the end of the Informal low respect conjugations.
+
+     Example:
+     저는 먹었어요. - I ate.
+
+**** 겠 Future:
+     Just add 요 to the end of the Informal low respect conjugations.
+     
+     Example:
+     저는 먹겠어요. - I will eat.
+
+*** Formal high respect
+    This is a very high respect form that is used when addressing
+    people who deserve a lot of respect from you. It is hard to
+    describe perfectly, but honestly, the difference between ‘Informal
+    high respect’ and ‘Formal high respect’ is not very big. As long
+    as you speak in either of these two ways, you will not offend
+    anyone.
+
+**** Present:
+     To conjugate using the Formal high respect honorific ending, you
+     add ~ㅂ니다/습니다 to the end of the word stem. Depending on the
+     Batchim.
+
+     Example:
+     저는 항상 저녁에 음식을 먹습니다. - I always eat food in the evening.
+
+**** Past:
+     After adding 었/았/였 instead of adding 다 add 습니다.
+
+     Example:
+     저는 먹었습니다. - I ate. 
+
+**** 겠 Future:
+     After 겠 instead of adding 다 add 습니다.
+
+     Example:
+     저는 먹겠습니다. - I will eat.
+
+** Irregularities
+
